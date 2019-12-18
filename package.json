@@ -13,7 +13,7 @@
     "url": "git+https://github.com/Robert-D-Campbell/webauth-iii-challenge.git"
   },
   "keywords": [],
-  "author": "",
+  "author": "Robert Campbell",
   "dependencies": {
     "bcryptjs": "^2.4.3",
     "cors": "^2.8.5",
